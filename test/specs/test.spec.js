@@ -6,6 +6,6 @@ describe('Demo Tests',function () {
 
         await $('[name="q"]').setValue('Webdr')
 
-        browser.pause(4000)
+        browser.pause(2000)
     })
 })
